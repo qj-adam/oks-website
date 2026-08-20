@@ -1,0 +1,12 @@
+# Keep text files consistent across Windows and the web host
+*.html   text eol=lf
+*.css    text eol=lf
+*.md     text eol=lf
+
+# Never treat these as text — line-ending conversion would corrupt them
+*.pdf    binary
+*.png    binary
+*.jpg    binary
+*.jpeg   binary
+*.gif    binary
+*.ico    binary
