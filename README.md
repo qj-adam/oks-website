@@ -1,6 +1,6 @@
 # Otago Kidney Society — website
 
-The website for the **Otago Kidney Society Inc.**, a registered charity supporting people affected by kidney disease in Otago, Aotearoa New Zealand.
+The website for the **Otago Kidney Society Inc.**, a registered charity supporting people affected by kidney disease in Otago, New Zealand.
 
 Live site: _(GitHub Pages URL once enabled)_ · Domain: oks.nz
 
